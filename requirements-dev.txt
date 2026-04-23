@@ -1,0 +1,25 @@
+# Development dependencies - pinned versions
+# Install with: pip install -r requirements-dev.txt
+
+# Code formatting
+black==24.0.0
+
+# Linting
+ruff==0.1.6
+
+# Type checking
+mypy==1.8.0
+
+# Testing
+pytest==7.4.4
+pytest-cov==4.1.0
+
+# Documentation
+pydocstyle==6.3.0
+interrogate==1.5.0
+
+# Git hooks
+pre-commit==3.6.0
+
+# Core dependencies (also needed for development)
+requests>=2.31.0

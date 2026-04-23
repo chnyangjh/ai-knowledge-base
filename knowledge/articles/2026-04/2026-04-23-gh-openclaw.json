@@ -1,0 +1,52 @@
+{
+  "id": "9414538d-5ed4-4cda-897b-4f243228af13",
+  "title": "openclaw / openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "source": "github_trending",
+  "content": "跨平台开源个人 AI 助手，隐私优先、本地可控的代表作。技术亮点：362K+ Stars 验证了隐私优先个人 AI 的巨大市场需求；跨平台架构支持任何操作系统，真正实现全平台覆盖；开源透明设计让用户真正拥有自己的数据和 AI 能力。",
+  "summary": "跨平台开源个人 AI 助手，隐私优先、本地可控的代表作",
+  "key_points": [
+    "362K+ Stars 验证了隐私优先个人 AI 的巨大市场需求",
+    "跨平台架构支持任何操作系统，真正实现全平台覆盖",
+    "开源透明设计让用户真正拥有自己的数据和 AI 能力"
+  ],
+  "score": 9,
+  "score_reason": "改变格局级项目。以隐私优先和开源的姿态重新定义个人 AI 助手范式，362K Stars 的社区认可度证明了其影响力。跨平台+本地可控+去中心化的理念代表了 AI 助手的未来方向。",
+  "tags": [
+    "ai-assistant",
+    "privacy",
+    "open-source",
+    "cross-platform",
+    "personal-ai"
+  ],
+  "category": "tool",
+  "language": "Unknown",
+  "author": "openclaw",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "advanced",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/openclaw/openclaw",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

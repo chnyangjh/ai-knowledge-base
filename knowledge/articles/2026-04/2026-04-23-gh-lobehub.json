@@ -1,0 +1,52 @@
+{
+  "id": "3ad10643-f10d-4eaa-ad07-8386fc606e79",
+  "title": "lobehub / lobehub",
+  "url": "https://github.com/lobehub/lobehub",
+  "source": "github_trending",
+  "content": "多 Agent 协作空间，Agent 从单打独斗到团队协作。技术亮点：多 Agent 协作范式创新，将 Agent 作为基本交互单元；内置知识库和 MCP 能力，支持复杂协作场景；75K+ Stars 验证了 Agent 协作方向的市场需求。",
+  "summary": "多 Agent 协作空间，Agent 从单打独斗到团队协作",
+  "key_points": [
+    "多 Agent 协作范式创新，将 Agent 作为基本交互单元",
+    "内置知识库和 MCP 能力，支持复杂协作场景",
+    "75K+ Stars 验证了 Agent 协作方向的市场需求"
+  ],
+  "score": 8,
+  "score_reason": "Agent 协作范式的前沿探索者。将 Agent 从独立工具升级为协作团队的概念极具前瞻性，生态建设和 MCP 集成扎实。",
+  "tags": [
+    "agent-collaboration",
+    "multi-agent",
+    "mcp",
+    "knowledge-base",
+    "ai-workspace"
+  ],
+  "category": "framework",
+  "language": "Unknown",
+  "author": "lobehub",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/lobehub/lobehub",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

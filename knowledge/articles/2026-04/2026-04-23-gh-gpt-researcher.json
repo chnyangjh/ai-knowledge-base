@@ -1,0 +1,52 @@
+{
+  "id": "59001afd-f3a9-4f0a-8701-0e42f1bbdb52",
+  "title": "assafelovic / gpt-researcher",
+  "url": "https://github.com/assafelovic/gpt-researcher",
+  "source": "github_trending",
+  "content": "自主深度研究 Agent，自动化研究全流程。技术亮点：全自动研究流程：自动规划路径+信息收集+报告生成；兼容任意 LLM 提供商，MCP 协议集成扩展能力；26K+ Stars 代表 AI 自主研究方向的前沿探索。",
+  "summary": "自主深度研究 Agent，自动化研究全流程",
+  "key_points": [
+    "全自动研究流程：自动规划路径+信息收集+报告生成",
+    "兼容任意 LLM 提供商，MCP 协议集成扩展能力",
+    "26K+ Stars 代表 AI 自主研究方向的前沿探索"
+  ],
+  "score": 7,
+  "score_reason": "自主研究 Agent 的代表项目，自动化流程完整。但研究质量和深度仍有提升空间。",
+  "tags": [
+    "deep-research",
+    "autonomous-agent",
+    "mcp",
+    "web-scraping",
+    "report-generation"
+  ],
+  "category": "tool",
+  "language": "Unknown",
+  "author": "assafelovic",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/assafelovic/gpt-researcher",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

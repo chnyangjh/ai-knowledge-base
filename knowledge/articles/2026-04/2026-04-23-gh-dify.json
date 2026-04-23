@@ -1,0 +1,52 @@
+{
+  "id": "54dd7a27-0fb6-46e5-b399-7dfff1938a6a",
+  "title": "langgenius / dify",
+  "url": "https://github.com/langgenius/dify",
+  "source": "github_trending",
+  "content": "生产就绪的 Agentic 工作流开发平台。技术亮点：生产级就绪，低代码/无代码双模式覆盖全场景；集成 RAG + Agent + MCP 全栈 AI 能力，开箱即用；138K+ Stars 验证了企业级 AI 工作流平台的市场需求。",
+  "summary": "生产就绪的 Agentic 工作流开发平台",
+  "key_points": [
+    "生产级就绪，低代码/无代码双模式覆盖全场景",
+    "集成 RAG + Agent + MCP 全栈 AI 能力，开箱即用",
+    "138K+ Stars 验证了企业级 AI 工作流平台的市场需求"
+  ],
+  "score": 8,
+  "score_reason": "Agentic 工作流平台的佼佼者。RAG、Agent、MCP 的全栈集成使其在企业场景中极具竞争力，生产就绪是其核心优势。",
+  "tags": [
+    "agentic-workflow",
+    "rag",
+    "mcp",
+    "low-code",
+    "production-ai"
+  ],
+  "category": "framework",
+  "language": "Unknown",
+  "author": "langgenius",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/langgenius/dify",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

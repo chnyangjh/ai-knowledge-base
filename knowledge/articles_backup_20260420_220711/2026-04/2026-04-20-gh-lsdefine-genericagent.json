@@ -1,0 +1,52 @@
+{
+  "id": "d4e5f6a7-b8c9-0123-def0-456789012345",
+  "title": "lsdefine / GenericAgent",
+  "source": "github_trending",
+  "source_url": "https://github.com/lsdefine/GenericAgent",
+  "content": "GenericAgent是一个自演化AI智能体框架，能够从3.3千行种子代码开始，通过自主学习和技能树扩展实现完整的系统控制能力。该框架采用高效的token使用策略，在保持强大功能的同时减少6倍的token消耗。项目实现了技能发现、任务分解、资源管理等核心功能，支持智能体在复杂环境中自主学习并执行多样化任务。该框架适用于自动化运维、智能控制系统、复杂任务规划等场景。",
+  "summary": "GenericAgent是一个创新的自演化AI智能体框架，采用独特的种子代码启动机制，仅需3.3千行基础代码即可启动自主学习和技能树扩展过程，最终实现完整的系统控制能力。该框架的核心优势在于其高效的token使用策略，能够在保持强大功能的同时将token消耗降低6倍，显著提高了运行效率和经济性。系统实现了自动技能发现、复杂任务分解、动态资源管理等关键功能，支持智能体在复杂环境中自主学习并执行多样化任务，适用于自动化运维、智能控制系统、复杂任务规划等多种高要求场景。",
+  "key_points": [
+    "采用种子代码启动机制，仅需少量代码即可启动自演化过程",
+    "高效的token使用策略将消耗降低6倍，显著提高经济性",
+    "实现自动技能发现和复杂任务分解核心功能",
+    "适用于自动化运维、智能控制等高要求场景"
+  ],
+  "tags": [
+    "agent",
+    "framework",
+    "autonomous",
+    "efficiency"
+  ],
+  "category": "framework",
+  "language": "Python",
+  "author": "lsdefine",
+  "published_at": null,
+  "collected_at": "2026-04-20T10:30:00Z",
+  "analyzed_at": "2026-04-20T11:15:00Z",
+  "organized_at": "2026-04-20T21:53:26.083499Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 4809,
+    "hacker_news_score": null,
+    "hacker_news_comments": null,
+    "technical_level": "advanced",
+    "reading_time": "short",
+    "audience": [
+      "engineer",
+      "researcher",
+      "developer"
+    ],
+    "similar_articles": [],
+    "analysis_version": "1.0.0"
+  },
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

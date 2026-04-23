@@ -1,0 +1,52 @@
+{
+  "id": "c9d0e1f2-a3b4-5678-2345-901234567890",
+  "title": "jamiepine / voicebox",
+  "source": "github_trending",
+  "source_url": "https://github.com/jamiepine/voicebox",
+  "content": "Voicebox是一个开源语音合成工作室，提供了完整的文本转语音解决方案。该项目支持多语言语音生成、音色定制、情感调节等高级功能，采用先进的深度学习模型实现高质量的语音合成效果。工作室提供了直观的用户界面和丰富的API接口，便于开发者集成和定制语音功能。该工具适用于有声内容创作、语音助手、无障碍技术等多个应用场景。",
+  "summary": "Voicebox是一个功能完善的开源语音合成工作室，提供了从文本到高质量语音转换的完整技术解决方案。该项目支持多语言语音生成、个性化音色定制、精细化情感调节等高级功能，采用前沿的深度学习模型架构实现接近人类水平的语音合成质量。工作室提供了直观易用的图形用户界面和丰富灵活的API接口，便于开发者快速集成和深度定制语音功能。该工具广泛适用于有声内容自动化创作、智能语音助手开发、无障碍技术实现、多媒体内容生产等多种实际应用场景，是语音合成技术民主化的重要推动力量。",
+  "key_points": [
+    "提供完整的高质量文本转语音解决方案",
+    "支持多语言、音色定制、情感调节等高级功能",
+    "采用先进的深度学习模型实现接近人类水平的合成质量",
+    "适用于有声内容创作、语音助手、无障碍技术等多个场景"
+  ],
+  "tags": [
+    "voice",
+    "synthesis",
+    "tool",
+    "accessibility"
+  ],
+  "category": "tool",
+  "language": "TypeScript",
+  "author": "jamiepine",
+  "published_at": null,
+  "collected_at": "2026-04-20T10:30:00Z",
+  "analyzed_at": "2026-04-20T11:15:00Z",
+  "organized_at": "2026-04-20T21:53:26.084545Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 21522,
+    "hacker_news_score": null,
+    "hacker_news_comments": null,
+    "technical_level": "intermediate",
+    "reading_time": "short",
+    "audience": [
+      "developer",
+      "engineer",
+      "practitioner"
+    ],
+    "similar_articles": [],
+    "analysis_version": "1.0.0"
+  },
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

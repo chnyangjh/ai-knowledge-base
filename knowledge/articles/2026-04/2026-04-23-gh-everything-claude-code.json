@@ -1,0 +1,52 @@
+{
+  "id": "94d775b7-9149-4a38-b9da-ca2eeb5b1444",
+  "title": "affaan-m / everything-claude-code",
+  "url": "https://github.com/affaan-m/everything-claude-code",
+  "source": "github_trending",
+  "content": "Claude Code Agent 性能优化系统，全方位提升 AI 编程助手。技术亮点：系统化 Agent 性能优化方案，涵盖技能/记忆/安全/研究；164K+ Stars 说明开发者对 AI 编程助手优化的强烈需求；MCP 集成扩展 Claude Code 的能力边界。",
+  "summary": "Claude Code Agent 性能优化系统，全方位提升 AI 编程助手",
+  "key_points": [
+    "系统化 Agent 性能优化方案，涵盖技能/记忆/安全/研究",
+    "164K+ Stars 说明开发者对 AI 编程助手优化的强烈需求",
+    "MCP 集成扩展 Claude Code 的能力边界"
+  ],
+  "score": 7,
+  "score_reason": "专注 Claude Code 优化，实用价值高。但适用范围局限于 Claude Code 生态，通用性受限。",
+  "tags": [
+    "claude-code",
+    "agent-optimization",
+    "mcp",
+    "developer-tools",
+    "productivity"
+  ],
+  "category": "tool",
+  "language": "Unknown",
+  "author": "affaan-m",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/affaan-m/everything-claude-code",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

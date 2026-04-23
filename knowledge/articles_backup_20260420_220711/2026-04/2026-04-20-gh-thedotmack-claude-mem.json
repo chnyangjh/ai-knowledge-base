@@ -1,0 +1,52 @@
+{
+  "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+  "title": "thedotmack / claude-mem",
+  "source": "github_trending",
+  "source_url": "https://github.com/thedotmack/claude-mem",
+  "content": "claude-mem是一个Claude Code插件，能够自动记录用户在编程会话中的所有交互历史，并通过AI技术进行智能压缩和摘要。该插件利用Claude的agent-sdk对上下文信息进行提取和存储，在未来的编码会话中注入相关历史信息，实现跨会话的连续性支持。该项目解决了AI编程助手缺乏长期记忆的问题，显著提升了代码生成的连贯性和准确性，是提高开发者工作效率的重要工具。",
+  "summary": "claude-mem是一个解决AI编程助手长期记忆问题的创新插件，能够自动记录编程会话中的完整交互历史，并通过智能压缩和摘要技术提取关键上下文信息。该插件利用Claude的agent-sdk实现上下文信息的有效提取和存储，在后续编码会话中智能注入相关历史信息，从而实现了跨会话的连续性和一致性支持。该项目的核心价值在于解决了当前AI编程助手普遍存在的记忆碎片化问题，显著提升了代码生成的连贯性、准确性和上下文感知能力，是提高开发者工作效率的关键工具。",
+  "key_points": [
+    "解决AI编程助手长期记忆缺失的核心痛点问题",
+    "实现跨编程会话的连续性支持和上下文一致性",
+    "利用智能压缩和摘要技术高效管理交互历史",
+    "显著提升代码生成的连贯性和准确性"
+  ],
+  "tags": [
+    "tool",
+    "memory",
+    "productivity",
+    "claude"
+  ],
+  "category": "tool",
+  "language": "TypeScript",
+  "author": "thedotmack",
+  "published_at": null,
+  "collected_at": "2026-04-20T10:30:00Z",
+  "analyzed_at": "2026-04-20T11:15:00Z",
+  "organized_at": "2026-04-20T21:53:26.083131Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 63881,
+    "hacker_news_score": null,
+    "hacker_news_comments": null,
+    "technical_level": "intermediate",
+    "reading_time": "short",
+    "audience": [
+      "developer",
+      "engineer",
+      "practitioner"
+    ],
+    "similar_articles": [],
+    "analysis_version": "1.0.0"
+  },
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

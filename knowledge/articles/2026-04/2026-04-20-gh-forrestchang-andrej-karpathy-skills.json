@@ -1,0 +1,52 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "title": "forrestchang / andrej-karpathy-skills",
+  "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+  "source": "github_trending",
+  "content": "该项目提供了一个名为CLAUDE.md的配置文件，旨在优化Claude Code AI编程助手的行为表现。该文件基于AI研究员Andrej Karpathy对大型语言模型编码常见陷阱的观察分析，通过结构化提示词和上下文设置，帮助开发者减少代码生成错误、提高代码质量。项目专注于提升AI编程助手的实用性，涵盖了代码风格、错误处理、最佳实践等多个维度，是改善开发者与AI协作体验的重要工具。",
+  "summary": "该项目基于Andrej Karpathy对大型语言模型编码常见陷阱的深度观察，创建了CLAUDE.md配置文件，专门用于优化Claude Code AI编程助手的行为模式。通过结构化提示词和上下文设置，系统性地减少了代码生成错误率，提高了代码质量一致性。该配置涵盖了代码风格规范、错误处理机制、最佳实践指导等多个关键维度，为开发者提供了可立即应用的优化方案。项目的核心价值在于将专家经验转化为可复用的配置模板，显著提升了AI编程助手的实用性和可靠性，是改善开发者与AI协作体验的重要工具。",
+  "key_points": [
+    "基于Andrej Karpathy对LLM编码陷阱的专业观察，具有权威性基础",
+    "提供即用型CLAUDE.md配置文件，可直接集成到开发工作流",
+    "系统覆盖代码风格、错误处理、最佳实践等关键开发维度",
+    "显著降低AI编程助手的错误率，提高代码生成质量"
+  ],
+  "score": 8,
+  "score_reason": "提供了实用的配置模板，基于权威AI研究员的观察分析，可直接应用于Claude Code提升编程效率。虽然不是技术创新，但具有很高的实用价值，能够立即改善开发体验。",
+  "tags": [
+    "llm",
+    "tool",
+    "productivity",
+    "configuration"
+  ],
+  "category": "tool",
+  "language": "",
+  "author": "forrestchang",
+  "published_at": null,
+  "collected_at": "2026-04-20T10:30:00Z",
+  "analyzed_at": "2026-04-20T11:15:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 64547,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "short",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/forrestchang/andrej-karpathy-skills",
+  "organized_at": "2026-04-20T14:09:07.880896+00:00",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

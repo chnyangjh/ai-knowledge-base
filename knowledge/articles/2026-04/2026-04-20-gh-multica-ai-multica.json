@@ -1,0 +1,52 @@
+{
+  "id": "b8c9d0e1-f2a3-4567-1234-890123456789",
+  "title": "multica-ai / multica",
+  "url": "https://github.com/multica-ai/multica",
+  "source": "github_trending",
+  "content": "Multica是一个开源托管智能体平台，旨在将编程智能体转化为真正的团队成员。该平台支持任务分配、进度跟踪、技能复合等协作功能，使多个AI智能体能够协同工作完成复杂项目。项目提供了智能体管理、工作流编排、结果集成等核心功能，适用于软件开发、数据分析、内容创作等多个领域的自动化协作。该平台显著提高了AI智能体的实用性和团队协作效率。",
+  "summary": "Multica是一个创新的开源托管智能体协作平台，致力于将编程智能体转化为能够像人类团队成员一样协同工作的智能实体。该平台提供了完整的任务分配机制、进度跟踪系统、技能复合框架等核心协作功能，使多个AI智能体能够有效协同工作，共同完成复杂项目任务。系统实现了智能体资源管理、工作流动态编排、结果智能集成等关键能力，适用于软件开发全流程、大数据分析处理、内容创作生产等多个领域的自动化协作场景。该平台的核心价值在于显著提高了AI智能体的实际应用价值和团队协作效率，推动了智能体从单机工具向团队协作成员的范式转变。",
+  "key_points": [
+    "将AI智能体转化为团队协作成员的新型平台",
+    "提供任务分配、进度跟踪、技能复合等协作功能",
+    "支持多个智能体协同完成复杂项目任务",
+    "适用于软件开发、数据分析、内容创作等多个领域"
+  ],
+  "score": 8,
+  "score_reason": "在智能体协作平台领域进行了有价值的探索，提供了多智能体协同工作的解决方案。平台设计面向实际应用需求，具有较好的实用性和前瞻性。",
+  "tags": [
+    "platform",
+    "collaboration",
+    "agent",
+    "automation"
+  ],
+  "category": "framework",
+  "language": "TypeScript",
+  "author": "multica-ai",
+  "published_at": null,
+  "collected_at": "2026-04-20T10:30:00Z",
+  "analyzed_at": "2026-04-20T11:15:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 17319,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "short",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/multica-ai/multica",
+  "organized_at": "2026-04-20T14:09:07.882236+00:00",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

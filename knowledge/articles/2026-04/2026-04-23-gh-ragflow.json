@@ -1,0 +1,52 @@
+{
+  "id": "b44eaf96-accc-4ae1-b6b0-29f7c4331bba",
+  "title": "infiniflow / ragflow",
+  "url": "https://github.com/infiniflow/ragflow",
+  "source": "github_trending",
+  "content": "领先的开源 RAG 引擎，融合 GraphRAG 与 Agent。技术亮点：GraphRAG 实现突破传统 RAG 局限性，增强知识关联推理；深度文档理解能力结合 MCP 协议扩展 Agent 能力边界；78K+ Stars 代表 RAG 技术路线在知识库场景的主导地位。",
+  "summary": "领先的开源 RAG 引擎，融合 GraphRAG 与 Agent",
+  "key_points": [
+    "GraphRAG 实现突破传统 RAG 局限性，增强知识关联推理",
+    "深度文档理解能力结合 MCP 协议扩展 Agent 能力边界",
+    "78K+ Stars 代表 RAG 技术路线在知识库场景的主导地位"
+  ],
+  "score": 8,
+  "score_reason": "RAG 领域的标杆项目。GraphRAG 和 MCP 的创新集成展现了 RAG 技术的演进方向，文档理解能力领先同类。",
+  "tags": [
+    "rag",
+    "graphrag",
+    "document-understanding",
+    "mcp",
+    "knowledge-base"
+  ],
+  "category": "framework",
+  "language": "Unknown",
+  "author": "infiniflow",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/infiniflow/ragflow",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

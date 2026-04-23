@@ -1,0 +1,52 @@
+{
+  "id": "d28d2e4f-3f6a-4828-907d-c5553a6da175",
+  "title": "hiyouga / LlamaFactory",
+  "url": "https://github.com/hiyouga/LlamaFactory",
+  "source": "github_trending",
+  "content": "统一高效的 LLM/VLM 微调框架，支持 100+ 模型。技术亮点：支持 100+ 主流模型，覆盖最广泛的 LLM/VLM 微调需求；集成 LoRA/QLoRA/RLHF 等多种微调方法，技术栈完整；ACL 2024 收录，获得学术界和工业界双重认可。",
+  "summary": "统一高效的 LLM/VLM 微调框架，支持 100+ 模型",
+  "key_points": [
+    "支持 100+ 主流模型，覆盖最广泛的 LLM/VLM 微调需求",
+    "集成 LoRA/QLoRA/RLHF 等多种微调方法，技术栈完整",
+    "ACL 2024 收录，获得学术界和工业界双重认可"
+  ],
+  "score": 8,
+  "score_reason": "LLM 微调领域的首选工具。模型覆盖最广、微调方法最全，学术背景加持使其在研究和工程场景都是最佳选择。",
+  "tags": [
+    "fine-tuning",
+    "lora",
+    "rlhf",
+    "llm",
+    "deep-learning"
+  ],
+  "category": "tool",
+  "language": "Unknown",
+  "author": "hiyouga",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/hiyouga/LlamaFactory",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

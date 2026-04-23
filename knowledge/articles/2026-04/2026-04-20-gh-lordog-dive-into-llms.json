@@ -1,0 +1,52 @@
+{
+  "id": "f6a7b8c9-d0e1-2345-f012-678901234567",
+  "title": "Lordog / dive-into-llms",
+  "url": "https://github.com/Lordog/dive-into-llms",
+  "source": "github_trending",
+  "content": "dive-into-llms是一个面向开发者的动手学大模型系列编程实践教程，通过丰富的代码示例和实战项目帮助学习者深入理解大型语言模型的原理与应用。教程涵盖了模型架构、训练方法、微调技术、部署优化等核心主题，采用Jupyter Notebook形式提供互动式学习体验。项目旨在降低大模型学习门槛，为AI开发者提供从入门到精通的完整学习路径，是学习现代AI技术的重要教育资源。",
+  "summary": "dive-into-llms是一个面向开发者的实战型大模型学习教程系列，通过大量代码示例和实际项目帮助学习者深入掌握大型语言模型的核心原理和实际应用技术。教程系统覆盖了模型架构设计、训练方法优化、微调技术实践、部署策略优化等关键主题，采用交互式Jupyter Notebook形式提供沉浸式学习体验。该项目的核心价值在于显著降低了大模型技术的学习门槛，为AI开发者提供了从基础入门到高级精通的完整学习路径，是现代AI技术教育领域的重要资源，特别适合希望快速掌握大模型开发技能的实践型开发者。",
+  "key_points": [
+    "实战导向的学习路径，注重代码实践和项目应用",
+    "覆盖模型架构、训练、微调、部署等完整技术栈",
+    "采用交互式Jupyter Notebook提供沉浸式学习体验",
+    "显著降低大模型技术学习门槛，适合实践型开发者"
+  ],
+  "score": 9,
+  "score_reason": "在教育资源方面具有重要价值，系统性地降低了大模型技术的学习门槛。内容全面、实践性强，对AI技术普及和开发者成长具有显著促进作用。",
+  "tags": [
+    "education",
+    "tutorial",
+    "llm",
+    "learning"
+  ],
+  "category": "tool",
+  "language": "Jupyter Notebook",
+  "author": "Lordog",
+  "published_at": null,
+  "collected_at": "2026-04-20T10:30:00Z",
+  "analyzed_at": "2026-04-20T11:15:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 32809,
+    "hacker_news_score": null,
+    "technical_level": "beginner",
+    "analysis_version": "1.0.0",
+    "reading_time": "short",
+    "audience": [
+      "beginner"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/Lordog/dive-into-llms",
+  "organized_at": "2026-04-20T14:09:07.882178+00:00",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

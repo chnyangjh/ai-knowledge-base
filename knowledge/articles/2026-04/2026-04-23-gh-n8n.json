@@ -1,0 +1,52 @@
+{
+  "id": "ccee5ad9-2ca2-4179-8472-d6da0628d767",
+  "title": "n8n-io / n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "source": "github_trending",
+  "content": "内置 AI 能力的公平代码工作流自动化平台。技术亮点：AI Agent + MCP 深度集成，将 AI 无缝融入工作流引擎；可视化拖拽搭建与代码自定义双模式满足不同用户需求；185K+ Stars 的庞大社区生态，支持海量集成插件。",
+  "summary": "内置 AI 能力的公平代码工作流自动化平台",
+  "key_points": [
+    "AI Agent + MCP 深度集成，将 AI 无缝融入工作流引擎",
+    "可视化拖拽搭建与代码自定义双模式满足不同用户需求",
+    "185K+ Stars 的庞大社区生态，支持海量集成插件"
+  ],
+  "score": 8,
+  "score_reason": "工作流自动化领域的标杆项目。AI Agent 和 MCP 的原生支持让非技术人员也能构建复杂 AI 流程，生态成熟度高。",
+  "tags": [
+    "workflow-automation",
+    "low-code",
+    "ai-agent",
+    "mcp",
+    "ipaas"
+  ],
+  "category": "tool",
+  "language": "Unknown",
+  "author": "n8n-io",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/n8n-io/n8n",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

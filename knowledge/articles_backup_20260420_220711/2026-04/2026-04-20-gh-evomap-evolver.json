@@ -1,0 +1,52 @@
+{
+  "id": "e5f6a7b8-c9d0-1234-ef01-567890123456",
+  "title": "EvoMap / evolver",
+  "source": "github_trending",
+  "source_url": "https://github.com/EvoMap/evolver",
+  "content": "Evolver是一个基于基因组进化协议（GEP）的AI智能体自演化引擎，为智能体提供基因编码和进化机制。该引擎模拟生物进化过程，通过基因突变、交叉选择等操作实现智能体能力的持续优化。项目提供了完整的进化算法框架，支持智能体在任务执行中动态调整策略、学习新技能。该引擎适用于创建具有长期进化能力的AI系统，如游戏AI、自适应机器人、智能决策系统等。",
+  "summary": "Evolver是一个基于基因组进化协议（GEP）的AI智能体自演化引擎，采用生物进化模拟机制为智能体提供基因编码和持续进化能力。该引擎通过模拟基因突变、交叉选择、自然选择等生物进化过程，实现智能体能力的系统性优化和持续改进。项目提供了完整的进化算法框架和工具链，支持智能体在任务执行过程中动态调整策略、学习新技能、适应环境变化。该引擎特别适用于创建具有长期进化能力和自适应特性的AI系统，如复杂游戏AI、自适应机器人控制系统、动态决策系统等高阶应用场景。",
+  "key_points": [
+    "基于基因组进化协议（GEP），采用生物进化模拟机制",
+    "提供完整的进化算法框架和工具链支持",
+    "支持智能体动态调整策略和学习新技能",
+    "适用于需要长期进化能力的复杂AI系统"
+  ],
+  "tags": [
+    "evolution",
+    "framework",
+    "ai",
+    "optimization"
+  ],
+  "category": "framework",
+  "language": "JavaScript",
+  "author": "EvoMap",
+  "published_at": null,
+  "collected_at": "2026-04-20T10:30:00Z",
+  "analyzed_at": "2026-04-20T11:15:00Z",
+  "organized_at": "2026-04-20T21:53:26.083706Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 5882,
+    "hacker_news_score": null,
+    "hacker_news_comments": null,
+    "technical_level": "advanced",
+    "reading_time": "short",
+    "audience": [
+      "engineer",
+      "researcher",
+      "developer"
+    ],
+    "similar_articles": [],
+    "analysis_version": "1.0.0"
+  },
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

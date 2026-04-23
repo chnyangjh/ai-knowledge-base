@@ -1,0 +1,52 @@
+{
+  "id": "495d0bb4-50f8-4412-8e9c-f9635e12c691",
+  "title": "ollama / ollama",
+  "url": "https://github.com/ollama/ollama",
+  "source": "github_trending",
+  "content": "本地 LLM 一键运行工具，推动 LLM 民主化的关键项目。技术亮点：Go 语言实现的高性能本地 LLM 运行引擎，资源占用低；支持 Kimi/GLM/DeepSeek/Qwen/Gemma 等全系主流模型；169K+ Stars 已成为事实上的本地 LLM 运行标准。",
+  "summary": "本地 LLM 一键运行工具，推动 LLM 民主化的关键项目",
+  "key_points": [
+    "Go 语言实现的高性能本地 LLM 运行引擎，资源占用低",
+    "支持 Kimi/GLM/DeepSeek/Qwen/Gemma 等全系主流模型",
+    "169K+ Stars 已成为事实上的本地 LLM 运行标准"
+  ],
+  "score": 9,
+  "score_reason": "改变格局级项目。彻底改变了开发者与 LLM 的交互方式，将本地模型部署门槛降至极低。推动了整个 LLM 生态的民主化进程，影响力深远。",
+  "tags": [
+    "llm",
+    "local-ai",
+    "go",
+    "model-runner",
+    "open-source"
+  ],
+  "category": "tool",
+  "language": "Go",
+  "author": "ollama",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "advanced",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/ollama/ollama",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

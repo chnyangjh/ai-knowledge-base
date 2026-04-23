@@ -1,0 +1,52 @@
+{
+  "id": "d0ebbe77-a464-44da-b65f-96cb072530f6",
+  "title": "jeecgboot / JeecgBoot",
+  "url": "https://github.com/jeecgboot/JeecgBoot",
+  "source": "github_trending",
+  "content": "AI 驱动的 Java 低代码开发平台。技术亮点：AI 聊天+大模型+知识库+MCP 深度整合到企业级开发平台；零代码+AI 代码生成双模式，解决 Java 项目 80% 重复工作；45K+ Stars 证明传统 Java 生态对 AI 能力注入的旺盛需求。",
+  "summary": "AI 驱动的 Java 低代码开发平台",
+  "key_points": [
+    "AI 聊天+大模型+知识库+MCP 深度整合到企业级开发平台",
+    "零代码+AI 代码生成双模式，解决 Java 项目 80% 重复工作",
+    "45K+ Stars 证明传统 Java 生态对 AI 能力注入的旺盛需求"
+  ],
+  "score": 6,
+  "score_reason": "AI+低代码的务实整合方案，在 Java 企业级市场有明确价值。但技术架构较传统，创新性有限。",
+  "tags": [
+    "low-code",
+    "java",
+    "ai-codegen",
+    "enterprise",
+    "mcp"
+  ],
+  "category": "tool",
+  "language": "Java",
+  "author": "jeecgboot",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "beginner",
+    "analysis_version": "1.0.0",
+    "reading_time": "short",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/jeecgboot/JeecgBoot",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

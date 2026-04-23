@@ -1,0 +1,52 @@
+{
+  "id": "a7b8c9d0-e1f2-3456-0123-789012345678",
+  "title": "virattt / ai-hedge-fund",
+  "source": "github_trending",
+  "source_url": "https://github.com/virattt/ai-hedge-fund",
+  "content": "ai-hedge-fund是一个AI对冲基金项目，展示了如何利用人工智能技术进行金融市场的分析和交易决策。该项目整合了多种机器学习模型和量化分析工具，实现了市场数据采集、特征工程、策略回测、风险控制等完整投资流程。项目专注于利用AI技术提高投资决策的准确性和效率，涵盖了股票、期货、加密货币等多个市场，是金融科技领域的重要实践案例。",
+  "summary": "ai-hedge-fund是一个展示AI技术在金融投资领域应用的完整实践项目，系统整合了多种机器学习模型和量化分析工具，构建了从市场数据采集、特征工程构建、策略开发回测到风险控制管理的完整投资决策流程。该项目专注于利用先进AI技术提高金融投资决策的准确性、效率和自动化水平，涵盖了股票市场、期货交易、加密货币投资等多个金融市场的实际应用场景。作为金融科技领域的重要实践案例，该项目不仅展示了AI技术在金融分析中的实际应用价值，也为开发者提供了学习AI金融应用的完整参考框架和实现范例。",
+  "key_points": [
+    "展示AI技术在金融投资领域的完整应用实践",
+    "整合多种机器学习模型和量化分析工具",
+    "涵盖股票、期货、加密货币等多个金融市场",
+    "提供完整的投资决策流程参考框架"
+  ],
+  "tags": [
+    "finance",
+    "ai",
+    "trading",
+    "quantitative"
+  ],
+  "category": "tool",
+  "language": "Python",
+  "author": "virattt",
+  "published_at": null,
+  "collected_at": "2026-04-20T10:30:00Z",
+  "analyzed_at": "2026-04-20T11:15:00Z",
+  "organized_at": "2026-04-20T21:53:26.084171Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 56489,
+    "hacker_news_score": null,
+    "hacker_news_comments": null,
+    "technical_level": "intermediate",
+    "reading_time": "short",
+    "audience": [
+      "developer",
+      "engineer",
+      "practitioner"
+    ],
+    "similar_articles": [],
+    "analysis_version": "1.0.0"
+  },
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

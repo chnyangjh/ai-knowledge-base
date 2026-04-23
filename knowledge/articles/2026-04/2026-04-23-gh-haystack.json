@@ -1,0 +1,52 @@
+{
+  "id": "14f46f53-68b3-4b2e-baa8-a16d6ce69bd1",
+  "title": "deepset-ai / haystack",
+  "url": "https://github.com/deepset-ai/haystack",
+  "source": "github_trending",
+  "content": "企业级开源 AI 编排框架，构建生产级 LLM 应用。技术亮点：完整的 RAG 流水线和 Agent 框架，企业级架构设计；持续迭代的老牌 NLP 框架，技术积累深厚；支持 Transformer/PyTorch 等主流深度学习框架。",
+  "summary": "企业级开源 AI 编排框架，构建生产级 LLM 应用",
+  "key_points": [
+    "完整的 RAG 流水线和 Agent 框架，企业级架构设计",
+    "持续迭代的老牌 NLP 框架，技术积累深厚",
+    "支持 Transformer/PyTorch 等主流深度学习框架"
+  ],
+  "score": 7,
+  "score_reason": "成熟的企业级 AI 编排框架，RAG 流水线实现完整。但面临 Dify、Langflow 等新锐框架的竞争压力。",
+  "tags": [
+    "orchestration",
+    "rag",
+    "nlp",
+    "enterprise-ai",
+    "pipeline"
+  ],
+  "category": "framework",
+  "language": "Unknown",
+  "author": "deepset-ai",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/deepset-ai/haystack",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "b286f763-c0a8-4a22-b885-4cd1f8151757",
+  "title": "khoj-ai / khoj",
+  "url": "https://github.com/khoj-ai/khoj",
+  "source": "github_trending",
+  "content": "可自托管的 AI 第二大脑，全栈个人知识管理方案。技术亮点：自托管架构确保数据完全隐私，兼容 GPT/Claude/Gemini/Llama；深度集成 Obsidian/Emacs 等效率工具生态；支持自定义 Agent、定时任务和深度研究等高级功能。",
+  "summary": "可自托管的 AI 第二大脑，全栈个人知识管理方案",
+  "key_points": [
+    "自托管架构确保数据完全隐私，兼容 GPT/Claude/Gemini/Llama",
+    "深度集成 Obsidian/Emacs 等效率工具生态",
+    "支持自定义 Agent、定时任务和深度研究等高级功能"
+  ],
+  "score": 7,
+  "score_reason": "功能完整的自托管 AI 知识管理方案，工具链集成突出。但领域竞争激烈，差异化优势有限。",
+  "tags": [
+    "self-hosted",
+    "knowledge-management",
+    "rag",
+    "obsidian",
+    "second-brain"
+  ],
+  "category": "tool",
+  "language": "Unknown",
+  "author": "khoj-ai",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/khoj-ai/khoj",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

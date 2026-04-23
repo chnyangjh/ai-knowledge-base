@@ -1,0 +1,132 @@
+[
+  {
+    "title": "forrestchang / andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 64547,
+      "forks": 5643
+    },
+    "summary": "该项目提供了一个名为CLAUDE.md的配置文件，旨在优化Claude Code AI编程助手的行为表现。该文件基于AI研究员Andrej Karpathy对大型语言模型编码常见陷阱的观察分析，通过结构化提示词和上下文设置，帮助开发者减少代码生成错误、提高代码质量。项目专注于提升AI编程助手的实用性，涵盖了代码风格、错误处理、最佳实践等多个维度，是改善开发者与AI协作体验的重要工具。",
+    "collected_at": "2026-04-20T10:30:00Z",
+    "language": "",
+    "category": "tool"
+  },
+  {
+    "title": "NousResearch / hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 104278,
+      "forks": 14867
+    },
+    "summary": "Hermes-agent是一个具有成长性的AI智能体框架，能够随着用户的使用和反馈不断进化其能力。该框架采用模块化设计，支持技能扩展和自适应学习，使智能体能够处理日益复杂的任务。项目重点关注智能体的长期记忆、任务规划、工具使用等核心功能，旨在构建一个真正理解用户需求并能持续改进的AI助手。该框架适用于自动化工作流、个性化助手、复杂问题求解等多个场景。",
+    "collected_at": "2026-04-20T10:30:00Z",
+    "language": "Python",
+    "category": "framework"
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 63881,
+      "forks": 5364
+    },
+    "summary": "claude-mem是一个Claude Code插件，能够自动记录用户在编程会话中的所有交互历史，并通过AI技术进行智能压缩和摘要。该插件利用Claude的agent-sdk对上下文信息进行提取和存储，在未来的编码会话中注入相关历史信息，实现跨会话的连续性支持。该项目解决了AI编程助手缺乏长期记忆的问题，显著提升了代码生成的连贯性和准确性，是提高开发者工作效率的重要工具。",
+    "collected_at": "2026-04-20T10:30:00Z",
+    "language": "TypeScript",
+    "category": "tool"
+  },
+  {
+    "title": "lsdefine / GenericAgent",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 4809,
+      "forks": 524
+    },
+    "summary": "GenericAgent是一个自演化AI智能体框架，能够从3.3千行种子代码开始，通过自主学习和技能树扩展实现完整的系统控制能力。该框架采用高效的token使用策略，在保持强大功能的同时减少6倍的token消耗。项目实现了技能发现、任务分解、资源管理等核心功能，支持智能体在复杂环境中自主学习并执行多样化任务。该框架适用于自动化运维、智能控制系统、复杂任务规划等场景。",
+    "collected_at": "2026-04-20T10:30:00Z",
+    "language": "Python",
+    "category": "framework"
+  },
+  {
+    "title": "EvoMap / evolver",
+    "url": "https://github.com/EvoMap/evolver",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 5882,
+      "forks": 562
+    },
+    "summary": "Evolver是一个基于基因组进化协议（GEP）的AI智能体自演化引擎，为智能体提供基因编码和进化机制。该引擎模拟生物进化过程，通过基因突变、交叉选择等操作实现智能体能力的持续优化。项目提供了完整的进化算法框架，支持智能体在任务执行中动态调整策略、学习新技能。该引擎适用于创建具有长期进化能力的AI系统，如游戏AI、自适应机器人、智能决策系统等。",
+    "collected_at": "2026-04-20T10:30:00Z",
+    "language": "JavaScript",
+    "category": "framework"
+  },
+  {
+    "title": "Lordog / dive-into-llms",
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 32809,
+      "forks": 4005
+    },
+    "summary": "dive-into-llms是一个面向开发者的动手学大模型系列编程实践教程，通过丰富的代码示例和实战项目帮助学习者深入理解大型语言模型的原理与应用。教程涵盖了模型架构、训练方法、微调技术、部署优化等核心主题，采用Jupyter Notebook形式提供互动式学习体验。项目旨在降低大模型学习门槛，为AI开发者提供从入门到精通的完整学习路径，是学习现代AI技术的重要教育资源。",
+    "collected_at": "2026-04-20T10:30:00Z",
+    "language": "Jupyter Notebook",
+    "category": "tool"
+  },
+  {
+    "title": "virattt / ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 56489,
+      "forks": 9810
+    },
+    "summary": "ai-hedge-fund是一个AI对冲基金项目，展示了如何利用人工智能技术进行金融市场的分析和交易决策。该项目整合了多种机器学习模型和量化分析工具，实现了市场数据采集、特征工程、策略回测、风险控制等完整投资流程。项目专注于利用AI技术提高投资决策的准确性和效率，涵盖了股票、期货、加密货币等多个市场，是金融科技领域的重要实践案例。",
+    "collected_at": "2026-04-20T10:30:00Z",
+    "language": "Python",
+    "category": "tool"
+  },
+  {
+    "title": "multica-ai / multica",
+    "url": "https://github.com/multica-ai/multica",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 17319,
+      "forks": 2127
+    },
+    "summary": "Multica是一个开源托管智能体平台，旨在将编程智能体转化为真正的团队成员。该平台支持任务分配、进度跟踪、技能复合等协作功能，使多个AI智能体能够协同工作完成复杂项目。项目提供了智能体管理、工作流编排、结果集成等核心功能，适用于软件开发、数据分析、内容创作等多个领域的自动化协作。该平台显著提高了AI智能体的实用性和团队协作效率。",
+    "collected_at": "2026-04-20T10:30:00Z",
+    "language": "TypeScript",
+    "category": "framework"
+  },
+  {
+    "title": "jamiepine / voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 21522,
+      "forks": 2472
+    },
+    "summary": "Voicebox是一个开源语音合成工作室，提供了完整的文本转语音解决方案。该项目支持多语言语音生成、音色定制、情感调节等高级功能，采用先进的深度学习模型实现高质量的语音合成效果。工作室提供了直观的用户界面和丰富的API接口，便于开发者集成和定制语音功能。该工具适用于有声内容创作、语音助手、无障碍技术等多个应用场景。",
+    "collected_at": "2026-04-20T10:30:00Z",
+    "language": "TypeScript",
+    "category": "tool"
+  },
+  {
+    "title": "shiyu-coder / Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 19745,
+      "forks": 3562
+    },
+    "summary": "Kronos是一个专门针对金融市场语言设计的基础模型，旨在理解和生成金融领域的专业文本。该模型训练于大量金融文档、市场报告、交易数据，具备金融术语理解、市场情绪分析、投资建议生成等能力。项目提供了预训练模型和微调工具，支持金融文本分类、摘要生成、问答系统等应用。该模型为金融科技领域提供了强大的自然语言处理基础，有助于自动化金融分析和决策支持。",
+    "collected_at": "2026-04-20T10:30:00Z",
+    "language": "Python",
+    "category": "model"
+  }
+]

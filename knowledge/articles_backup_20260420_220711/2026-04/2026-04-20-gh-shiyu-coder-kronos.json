@@ -1,0 +1,52 @@
+{
+  "id": "d0e1f2a3-b4c5-6789-3456-012345678901",
+  "title": "shiyu-coder / Kronos",
+  "source": "github_trending",
+  "source_url": "https://github.com/shiyu-coder/Kronos",
+  "content": "Kronos是一个专门针对金融市场语言设计的基础模型，旨在理解和生成金融领域的专业文本。该模型训练于大量金融文档、市场报告、交易数据，具备金融术语理解、市场情绪分析、投资建议生成等能力。项目提供了预训练模型和微调工具，支持金融文本分类、摘要生成、问答系统等应用。该模型为金融科技领域提供了强大的自然语言处理基础，有助于自动化金融分析和决策支持。",
+  "summary": "Kronos是一个专门针对金融领域语言理解需求设计的基础大语言模型，基于海量金融文档、市场分析报告、交易数据记录等专业语料进行深度训练，具备精准的金融术语理解能力、市场情绪分析能力和投资建议生成能力。该项目提供了完整的预训练模型权重和专业的微调工具链，支持金融文本自动分类、专业文档智能摘要、金融问答系统构建等多种实际应用。该模型的核心价值在于为金融科技领域提供了强大的领域专用自然语言处理基础能力，显著提升了金融分析自动化水平和决策支持效率，是AI技术在垂直专业领域深度应用的重要实践。",
+  "key_points": [
+    "专门针对金融领域设计的领域专用大语言模型",
+    "基于海量金融专业语料进行深度训练",
+    "具备金融术语理解、市场情绪分析等专业能力",
+    "提供完整的预训练模型和微调工具链"
+  ],
+  "tags": [
+    "finance",
+    "llm",
+    "domain",
+    "model"
+  ],
+  "category": "model",
+  "language": "Python",
+  "author": "shiyu-coder",
+  "published_at": null,
+  "collected_at": "2026-04-20T10:30:00Z",
+  "analyzed_at": "2026-04-20T11:15:00Z",
+  "organized_at": "2026-04-20T21:53:26.084712Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 19745,
+    "hacker_news_score": null,
+    "hacker_news_comments": null,
+    "technical_level": "advanced",
+    "reading_time": "short",
+    "audience": [
+      "engineer",
+      "researcher",
+      "developer"
+    ],
+    "similar_articles": [],
+    "analysis_version": "1.0.0"
+  },
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

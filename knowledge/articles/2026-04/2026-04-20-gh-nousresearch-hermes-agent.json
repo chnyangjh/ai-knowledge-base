@@ -1,0 +1,53 @@
+{
+  "id": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
+  "title": "NousResearch / hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "source": "github_trending",
+  "content": "Hermes-agent是一个具有成长性的AI智能体框架，能够随着用户的使用和反馈不断进化其能力。该框架采用模块化设计，支持技能扩展和自适应学习，使智能体能够处理日益复杂的任务。项目重点关注智能体的长期记忆、任务规划、工具使用等核心功能，旨在构建一个真正理解用户需求并能持续改进的AI助手。该框架适用于自动化工作流、个性化助手、复杂问题求解等多个场景。",
+  "summary": "Hermes-agent是一个具有自进化能力的AI智能体框架，采用模块化架构设计，支持动态技能扩展和自适应学习机制。该框架的核心创新在于使智能体能够随着用户交互和反馈持续进化，处理日益复杂的任务需求。系统重点关注长期记忆管理、分层任务规划、多工具协同使用等关键功能，旨在构建真正理解用户意图并能自主改进的AI助手。该框架适用于自动化工作流编排、个性化助手服务、复杂问题求解等多种应用场景，代表了智能体技术向持续学习方向的重要进展。",
+  "key_points": [
+    "具备自进化能力，智能体可随使用反馈持续改进",
+    "模块化架构支持动态技能扩展和自适应学习",
+    "重点关注长期记忆管理和分层任务规划核心功能",
+    "适用于自动化工作流、个性化助手等多种应用场景"
+  ],
+  "score": 9,
+  "score_reason": "代表了智能体技术的重要发展方向，具备自进化能力和持续学习机制。框架设计先进，适用场景广泛，具有改变智能体开发范式的潜力。",
+  "tags": [
+    "agent",
+    "framework",
+    "autonomous",
+    "learning"
+  ],
+  "category": "framework",
+  "language": "Python",
+  "author": "NousResearch",
+  "published_at": null,
+  "collected_at": "2026-04-20T10:30:00Z",
+  "analyzed_at": "2026-04-20T11:15:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 104278,
+    "hacker_news_score": null,
+    "technical_level": "advanced",
+    "analysis_version": "1.0.0",
+    "reading_time": "short",
+    "audience": [
+      "developer",
+      "researcher"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "organized_at": "2026-04-20T14:09:07.882048+00:00",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

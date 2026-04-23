@@ -1,0 +1,52 @@
+{
+  "id": "7c696fe3-7a6d-4431-b87e-016bc580cda5",
+  "title": "langflow-ai / langflow",
+  "url": "https://github.com/langflow-ai/langflow",
+  "source": "github_trending",
+  "content": "拖拽式 AI Agent 工作流可视化构建工具。技术亮点：低代码 AI 应用搭建，拖拽即可构建复杂 Agent 工作流；集成多 LLM 提供商和工具生态，从原型到生产全覆盖；147K+ Stars 证明可视化 AI 开发方式的广泛需求。",
+  "summary": "拖拽式 AI Agent 工作流可视化构建工具",
+  "key_points": [
+    "低代码 AI 应用搭建，拖拽即可构建复杂 Agent 工作流",
+    "集成多 LLM 提供商和工具生态，从原型到生产全覆盖",
+    "147K+ Stars 证明可视化 AI 开发方式的广泛需求"
+  ],
+  "score": 7,
+  "score_reason": "优秀的可视化 AI 构建工具，大幅降低了 AI 应用开发门槛。但同类竞品较多，差异化不够显著。",
+  "tags": [
+    "visual-programming",
+    "ai-agent",
+    "low-code",
+    "workflow",
+    "python"
+  ],
+  "category": "framework",
+  "language": "Python",
+  "author": "langflow-ai",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

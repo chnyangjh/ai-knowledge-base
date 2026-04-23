@@ -1,0 +1,52 @@
+{
+  "id": "63f8dba4-667c-4b07-aa75-a234b662a2a1",
+  "title": "CopilotKit / CopilotKit",
+  "url": "https://github.com/CopilotKit/CopilotKit",
+  "source": "github_trending",
+  "content": "AI Agent 前端交互框架，定义 AG-UI 协议标准。技术亮点：创建 AG-UI 协议，为 Agent 定义标准化前端交互方案；支持 React 和 Angular 双框架，覆盖主流前端生态；30K+ Stars 验证了 Agent 前端交互标准的市场需求。",
+  "summary": "AI Agent 前端交互框架，定义 AG-UI 协议标准",
+  "key_points": [
+    "创建 AG-UI 协议，为 Agent 定义标准化前端交互方案",
+    "支持 React 和 Angular 双框架，覆盖主流前端生态",
+    "30K+ Stars 验证了 Agent 前端交互标准的市场需求"
+  ],
+  "score": 7,
+  "score_reason": "聚焦 Agent 前端交互的创新框架，AG-UI 协议有标准引领意义。但协议生态尚在发展初期。",
+  "tags": [
+    "generative-ui",
+    "react",
+    "ag-ui",
+    "agent-frontend",
+    "copilot"
+  ],
+  "category": "tool",
+  "language": "Unknown",
+  "author": "CopilotKit",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/CopilotKit/CopilotKit",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}

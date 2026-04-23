@@ -1,0 +1,52 @@
+{
+  "id": "7e7fbc12-0dd9-4473-9ec7-7b2592d9c2cc",
+  "title": "bytedance / deer-flow",
+  "url": "https://github.com/bytedance/deer-flow",
+  "source": "github_trending",
+  "content": "字节跳动开源长周期 SuperAgent 框架。技术亮点：长周期任务处理能力，从分钟到小时级别的复杂任务编排；沙箱+记忆+工具+子 Agent 的完整 Agent 架构设计；63K+ Stars 验证了大厂开源 Agent 框架的号召力。",
+  "summary": "字节跳动开源长周期 SuperAgent 框架",
+  "key_points": [
+    "长周期任务处理能力，从分钟到小时级别的复杂任务编排",
+    "沙箱+记忆+工具+子 Agent 的完整 Agent 架构设计",
+    "63K+ Stars 验证了大厂开源 Agent 框架的号召力"
+  ],
+  "score": 7,
+  "score_reason": "大厂背书的长周期 Agent 框架，技术架构完整。但项目较新，生态和社区成熟度有待验证。",
+  "tags": [
+    "superagent",
+    "long-running-tasks",
+    "multi-agent",
+    "bytedance",
+    "agent-framework"
+  ],
+  "category": "framework",
+  "language": "Unknown",
+  "author": "bytedance",
+  "published_at": null,
+  "collected_at": "2026-04-23T15:00:00Z",
+  "analyzed_at": "2026-04-23T15:00:00Z",
+  "status": "curated",
+  "metadata": {
+    "github_stars": 0,
+    "hacker_news_score": null,
+    "technical_level": "intermediate",
+    "analysis_version": "1.0.0",
+    "reading_time": "medium",
+    "audience": [
+      "developer"
+    ],
+    "similar_articles": []
+  },
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "organized_at": "2026-04-23T15:10:00Z",
+  "distribution": {
+    "telegram": {
+      "sent_at": null,
+      "message_id": null
+    },
+    "feishu": {
+      "sent_at": null,
+      "message_id": null
+    }
+  }
+}
