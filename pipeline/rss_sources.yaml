@@ -1,0 +1,23 @@
+# AI 知识库 RSS 数据源配置
+# enabled: true 表示启用采集，false 表示暂停采集
+
+sources:
+  - name: "Reddit r/MachineLearning"
+    url: "https://www.reddit.com/r/MachineLearning/hot.rss"
+    category: "research"
+    enabled: true
+
+  - name: "Reddit r/LocalLLaMA"
+    url: "https://www.reddit.com/r/LocalLLaMA/hot.rss"
+    category: "open-source"
+    enabled: true
+
+  - name: "Google AI Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    category: "industry"
+    enabled: true
+
+  - name: "The Verge (AI)"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    category: "news"
+    enabled: true
